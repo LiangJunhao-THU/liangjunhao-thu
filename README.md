@@ -24,4 +24,4 @@ News
 
 Services
 ======
-Assisted in reviewing manuscripts in _Nature Machine Intelligence, npj Precision Oncology & Cancer Medicine_.
+Assisted in reviewing manuscripts in _Nature Machine Intelligence, npj Precision Oncology, Cancer Medicine_.
