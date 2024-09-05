@@ -1,4 +1,4 @@
-I am a 4th year Ph.D. Candidate advised by [Lingjie Kong](https://scholar.google.com/citations?user=9ZZVgx4AAAAJ&hl=en) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).  
+I am a 5th year Ph.D. Candidate advised by [Lingjie Kong](https://scholar.google.com/citations?user=9ZZVgx4AAAAJ&hl=en) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).  
 
 My research mainly focuses on <ins>computational pathology</ins>, especially using deep learning methods to find new cancer biomarkers, acquire low-dimensional knowledge from high-dimensional pathological images, and develop clinically useful framework for cancer diagnosis and prognosis.  
 
