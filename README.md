@@ -1,6 +1,6 @@
 About Me
 ======
-I am a 5th year Ph.D. Candidate advised by [Lingjie Kong](https://scholar.google.com/citations?user=9ZZVgx4AAAAJ&hl=en) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). Currently, I am also a a visiting researcher at [KatherLab](https://jnkather.github.io/). 
+I am a 5th year Ph.D. Candidate at Tsinghua University and a visiting researcher at [KatherLab](https://jnkather.github.io/). 
 
 My research mainly focuses on <ins>computational pathology</ins>, especially using deep learning methods to find new cancer biomarkers, acquire low-dimensional knowledge from high-dimensional pathological images, and develop clinically useful framework for cancer diagnosis and prognosis.  
 
