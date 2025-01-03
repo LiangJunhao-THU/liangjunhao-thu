@@ -13,7 +13,6 @@ I also study <ins>computational optics</ins> and develop <ins>histopathological 
 
 News
 ======
-2024/10: Awarded National Scholarship, Tsinghua University.
 
 2024/04: Honored to win the best [poster](https://github.com/LiangJunhao-THU/nature-conference-poster/blob/main/LIANG%20poster.pdf) award at the ‘Advancing Health with AI’ **Nature Conference** held in Wenzhou.
 
