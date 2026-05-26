@@ -14,6 +14,8 @@ I also study <ins>computational optics</ins> and develop <ins>histopathological 
 News
 ======
 
+2026/05: Our work PathPrism has been accepted for publication in **Cancer Cell**!
+
 2024/04: Honored to win the best [poster](https://github.com/LiangJunhao-THU/nature-conference-poster/blob/main/LIANG%20poster.pdf) award at the ‘Advancing Health with AI’ **Nature Conference** held in Wenzhou.
 
 2024/03: Our work on wide-field mesoscopy ([RA-WiFi](https://www.nature.com/articles/s41566-024-01422-1)) was published in **Nature Photonics**.
