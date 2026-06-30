@@ -1,6 +1,6 @@
 About Me
 ======
-I am a 5th year Ph.D. Candidate at Tsinghua University and a visiting researcher at [KatherLab](https://jnkather.github.io/). 
+I am a postdoctoral researcher at [KatherLab](https://jnkather.github.io/). I received my Ph.D. from Tsinghua University.
 
 My research mainly focuses on <ins>computational pathology</ins>, especially using deep learning methods to find new cancer biomarkers, acquire low-dimensional knowledge from high-dimensional pathological images, and develop clinically useful framework for cancer diagnosis and prognosis.  
 
@@ -14,7 +14,9 @@ I also study <ins>computational optics</ins> and develop <ins>histopathological 
 News
 ======
 
-2026/05: Our work PathPrism has been accepted for publication in **Cancer Cell**!
+2026/06: PathPrism was featured in a **Cancer Cell** [Preview](https://www.cell.com/cancer-cell/abstract/S1535-6108(26)00290-4), *From prediction to interpretation in computational pathology*.
+
+2026/06: Our work on spatial biomarker discovery through interpretable semantic learning ([PathPrism](https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00259-X)) was published in **Cancer Cell**.
 
 2024/04: Honored to win the best [poster](https://github.com/LiangJunhao-THU/nature-conference-poster/blob/main/LIANG%20poster.pdf) award at the ‘Advancing Health with AI’ **Nature Conference** held in Wenzhou.
 
