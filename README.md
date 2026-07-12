@@ -6,7 +6,7 @@ My research mainly focuses on <ins>computational pathology</ins>, especially usi
 
 I also study <ins>computational optics</ins> and develop <ins>histopathological optical imaging systems</ins>, which combine medical prior information and special optical methods to achieve clinically usable intraoperative rapid diagnosis and prognosis.
 
-*E-mail：liangjh20[at]mails.tsinghua.edu.cn*
+*E-mail：liangjunhao.thu[at]gmail.com*
 
  
  
